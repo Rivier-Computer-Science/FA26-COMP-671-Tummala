@@ -1,0 +1,4 @@
+Model,Test Accuracy (%)
+Baseline CNN,42.06896424293518
+ResNet50 Without Augmentation,77.93
+ResNet50 With Augmentation,78.62
